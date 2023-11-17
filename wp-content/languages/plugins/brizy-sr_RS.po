@@ -1,0 +1,1066 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-05 09:17:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: public/editor-build/264-wp/texts.php:1445
+msgid "or"
+msgstr "или"
+
+#: public/editor-build/264-wp/texts.php:1417
+msgid "You can"
+msgstr "Можете"
+
+#: public/editor-build/264-wp/texts.php:1444
+msgid "open an issue"
+msgstr "пријави проблем"
+
+#: import/main.php:53 public/editor-build/264-wp/texts.php:143
+msgid "All Categories"
+msgstr "Све категорије"
+
+#: public/editor-build/264-wp/texts.php:1054
+msgid "Saved"
+msgstr "Сачувано"
+
+#: public/editor-build/264-wp/texts.php:1051
+msgid "Save"
+msgstr "Сачувај"
+
+#: public/editor-build/264-wp/texts.php:215
+msgid "Block"
+msgstr "Блок"
+
+#: public/editor-build/264-wp/texts.php:755
+msgid "Message sent"
+msgstr "Порука је послата"
+
+#: public/editor-build/264-wp/texts.php:444
+msgid "Error"
+msgstr "Грешка"
+
+#: public/editor-build/264-wp/texts.php:721
+msgid "Make it Global"
+msgstr "Постави за глобални"
+
+#: public/editor-build/264-wp/texts.php:499
+msgid "Filter By"
+msgstr "Филтрирај по"
+
+#: public/editor-build/264-wp/texts.php:863
+msgid "Parent"
+msgstr "Родитељ"
+
+#: public/editor-build/264-wp/texts.php:776
+msgid "Modified"
+msgstr "Измењено"
+
+#: public/editor-build/264-wp/texts.php:761
+msgid "Meta Value"
+msgstr "Мета вредност"
+
+#: public/editor-build/264-wp/texts.php:643
+msgid "Inherit"
+msgstr "Наследити"
+
+#: public/editor-build/264-wp/texts.php:181
+msgid "Auto-Draft"
+msgstr "Ауто-Нацрт"
+
+#: public/editor-build/264-wp/texts.php:178
+msgid "Author"
+msgstr "Аутор"
+
+#: public/editor-build/264-wp/texts.php:279
+msgid "Category"
+msgstr "Категорија"
+
+#: public/editor-build/264-wp/texts.php:921
+msgid "Private"
+msgstr "Приватно"
+
+#: public/editor-build/264-wp/texts.php:895
+msgid "Post"
+msgstr "Чланак"
+
+#: public/editor-build/264-wp/texts.php:873
+msgid "Pending"
+msgstr "На чекању"
+
+#: public/editor-build/264-wp/texts.php:408
+msgid "Draft"
+msgstr "Нацрт"
+
+#: public/editor-build/264-wp/texts.php:902
+msgid "Post Type"
+msgstr "Врста уноса"
+
+#: public/editor-build/264-wp/texts.php:1390
+msgid "Weight"
+msgstr "Тежина"
+
+#: public/editor-build/264-wp/texts.php:537
+msgid "Future"
+msgstr "Будућност"
+
+#: public/editor-build/264-wp/texts.php:456
+msgid "Exclude"
+msgstr "Искључити"
+
+#: public/editor-build/264-wp/texts.php:629
+msgid "Include"
+msgstr "Укључити"
+
+#: public/editor-build/264-wp/texts.php:839
+msgid "Order Tracking"
+msgstr "Праћење поруџбине"
+
+#: public/editor-build/264-wp/texts.php:790
+msgid "My Account"
+msgstr "Мој Налог"
+
+#: public/editor-build/264-wp/texts.php:601
+msgid "ID"
+msgstr "ИД"
+
+#: public/editor-build/264-wp/texts.php:963
+msgid "Random"
+msgstr "Насумично"
+
+#: public/editor-build/264-wp/texts.php:288
+msgid "Checkout"
+msgstr "Потврда куповине"
+
+#: public/editor-build/264-wp/texts.php:270
+msgid "Cart"
+msgstr "Корпа"
+
+#: public/editor-build/264-wp/texts.php:853
+msgid "Page"
+msgstr "Страница"
+
+#: public/editor-build/264-wp/texts.php:341
+msgid "Count"
+msgstr "Број"
+
+#: public/editor-build/264-wp/texts.php:378
+msgid "Description"
+msgstr "Опис"
+
+#: public/editor-build/264-wp/texts.php:889
+msgid "Popularity"
+msgstr "Популарност"
+
+#: public/editor-build/264-wp/texts.php:965
+msgid "Rating"
+msgstr "Оценa"
+
+#: public/editor-build/264-wp/texts.php:1278
+msgid "Title"
+msgstr "Наслов"
+
+#: public/editor-build/264-wp/texts.php:792
+msgid "Name"
+msgstr "Име"
+
+#: public/editor-build/264-wp/texts.php:760
+msgid "Meta Key"
+msgstr "Мета кључ"
+
+#: public/editor-build/264-wp/texts.php:1192
+msgid "Status"
+msgstr "Стање"
+
+#: public/editor-build/264-wp/texts.php:170
+msgid "Asc"
+msgstr "Растуће"
+
+#: public/editor-build/264-wp/texts.php:683
+msgid "Layout"
+msgstr "Распоред"
+
+#: public/editor-build/264-wp/texts.php:1168
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: public/editor-build/264-wp/texts.php:875
+msgid "Percentage"
+msgstr "Проценат"
+
+#: public/editor-build/264-wp/texts.php:959
+msgid "Query"
+msgstr "Упит"
+
+#: public/editor-build/264-wp/texts.php:523
+msgid "Footer"
+msgstr "Подножје"
+
+#: public/editor-build/264-wp/texts.php:881
+msgid "Play"
+msgstr "Пусти"
+
+#: public/editor-build/264-wp/texts.php:345
+msgid "Cover"
+msgstr "Прекривач"
+
+#: public/editor-build/264-wp/texts.php:323
+msgid "Controls"
+msgstr "Контроле"
+
+#: public/editor-build/264-wp/texts.php:599
+msgid "Hue"
+msgstr "Нијанса"
+
+#: public/editor-build/264-wp/texts.php:1201
+msgid "Style"
+msgstr "Стил"
+
+#: public/editor-build/264-wp/texts.php:1169
+msgid "SoundCloud Link"
+msgstr "SoundCloud веза"
+
+#: public/editor-build/264-wp/texts.php:860
+msgid "Paragraph"
+msgstr "Пасус"
+
+#: public/editor-build/264-wp/texts.php:822
+msgid "Number"
+msgstr "Број"
+
+#: public/editor-build/264-wp/texts.php:996
+msgid "Required"
+msgstr "Обавезно"
+
+#: public/editor-build/264-wp/texts.php:551
+msgid "Go to"
+msgstr "Иди на"
+
+#: public/editor-build/264-wp/texts.php:439
+msgid "English"
+msgstr "Енглески"
+
+#: public/editor-build/264-wp/texts.php:544
+msgid "German"
+msgstr "Немачки"
+
+#: public/editor-build/264-wp/texts.php:677
+msgid "Language"
+msgstr "Језик"
+
+#: public/editor-build/264-wp/texts.php:11
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Окланд)"
+
+#: public/editor-build/264-wp/texts.php:10
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Понапе)"
+
+#: public/editor-build/264-wp/texts.php:754
+msgid "Message not sent"
+msgstr "Порука није послата"
+
+#: public/editor-build/264-wp/texts.php:1215
+msgid "Success"
+msgstr "Успех"
+
+#: public/editor-build/264-wp/texts.php:753
+msgid "Message"
+msgstr "Порука"
+
+#: public/editor-build/264-wp/texts.php:34
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Токио, Сеул)"
+
+#: public/editor-build/264-wp/texts.php:673
+msgid "Label"
+msgstr "Етикета"
+
+#: public/editor-build/264-wp/texts.php:490
+msgid "Field"
+msgstr "Поље"
+
+#: public/editor-build/264-wp/texts.php:438
+msgid "End"
+msgstr "Крај"
+
+#: public/editor-build/264-wp/texts.php:1190
+msgid "Start"
+msgstr "Почетак"
+
+#: public/editor-build/264-wp/texts.php:31
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Сингапур, Пекинг)"
+
+#: public/editor-build/264-wp/texts.php:1037
+msgid "Russian"
+msgstr "Руски"
+
+#: public/editor-build/264-wp/texts.php:414
+msgid "Dutch"
+msgstr "Холандски"
+
+#: public/editor-build/264-wp/texts.php:663
+msgid "Italian"
+msgstr "Италијански"
+
+#: public/editor-build/264-wp/texts.php:528
+msgid "French"
+msgstr "Француски"
+
+#: public/editor-build/264-wp/texts.php:1175
+msgid "Spanish"
+msgstr "Шпански"
+
+#: public/editor-build/264-wp/texts.php:29
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Банкок, Џакарта)"
+
+#: admin/form-entries.php:62 public/editor-build/264-wp/texts.php:367
+msgid "Date"
+msgstr "Датум"
+
+#: public/editor-build/264-wp/texts.php:22
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Јекатеринбург)"
+
+#: public/editor-build/264-wp/texts.php:595
+msgid "Hover"
+msgstr "Прелаз"
+
+#: public/editor-build/264-wp/texts.php:20
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Дубаи, Баку)"
+
+#: public/editor-build/264-wp/texts.php:18
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Москва, Багдад)"
+
+#: public/editor-build/264-wp/texts.php:491
+msgid "Field Type"
+msgstr "Врста поља"
+
+#: public/editor-build/264-wp/texts.php:1174
+msgid "Spacing"
+msgstr "Размак"
+
+#: public/editor-build/264-wp/texts.php:14
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Берлин, Париз)"
+
+#: public/editor-build/264-wp/texts.php:59
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (Лондон, Даблин)"
+
+#: public/editor-build/264-wp/texts.php:328
+msgid "Corner"
+msgstr "Угао"
+
+#: public/editor-build/264-wp/texts.php:40
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Зеленортска Острва)"
+
+#: public/editor-build/264-wp/texts.php:727
+msgid "Margin"
+msgstr "Маргина"
+
+#: public/editor-build/264-wp/texts.php:41
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Норонха)"
+
+#: public/editor-build/264-wp/texts.php:43
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Бразилија, Сантијаго)"
+
+#: public/editor-build/264-wp/texts.php:46
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Халифакс, Манаус)"
+
+#: public/editor-build/264-wp/texts.php:49
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (Њу Јорк, Мајами)"
+
+#: public/editor-build/264-wp/texts.php:50
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Чикаго, Далас)"
+
+#: public/editor-build/264-wp/texts.php:51
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Денвер, Феникс)"
+
+#: public/editor-build/264-wp/texts.php:852
+msgid "Padding"
+msgstr "Попуна"
+
+#: public/editor-build/264-wp/texts.php:52
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Лос Анђелес)"
+
+#: public/editor-build/264-wp/texts.php:832
+msgid "Open In New Tab"
+msgstr "Отвори у новом језичку"
+
+#: public/editor-build/264-wp/texts.php:701
+msgid "Link to"
+msgstr "Веза ка "
+
+#: public/editor-build/264-wp/texts.php:53
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Aнкориџ)"
+
+#: public/editor-build/264-wp/texts.php:698
+msgid "Link"
+msgstr "Веза"
+
+#: public/editor-build/264-wp/texts.php:36
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Хонолулу, Папеете)"
+
+#: public/editor-build/264-wp/texts.php:38
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Ниуе)"
+
+#: public/editor-build/264-wp/texts.php:418
+msgid "Editable Text"
+msgstr "Измењиви текст"
+
+#: public/editor-build/264-wp/texts.php:1270
+msgid "Time Zone"
+msgstr "Временска зона"
+
+#: public/editor-build/264-wp/texts.php:768
+msgid "Minutes"
+msgstr "Минути"
+
+#: public/editor-build/264-wp/texts.php:593
+msgid "Hour"
+msgstr "Сат"
+
+#: public/editor-build/264-wp/texts.php:568
+msgid "H5"
+msgstr "H5"
+
+#: public/editor-build/264-wp/texts.php:567
+msgid "H4"
+msgstr "H4"
+
+#: public/editor-build/264-wp/texts.php:566
+msgid "H3"
+msgstr "H3"
+
+#: public/editor-build/264-wp/texts.php:565
+msgid "H2"
+msgstr "H2"
+
+#: public/editor-build/264-wp/texts.php:569
+msgid "H6"
+msgstr "H6"
+
+#: public/editor-build/264-wp/texts.php:564
+msgid "H1"
+msgstr "H1"
+
+#: public/editor-build/264-wp/texts.php:850
+msgid "P"
+msgstr "P"
+
+#: public/editor-build/264-wp/texts.php:570
+msgid "HTML Tag"
+msgstr "HTML ознака"
+
+#: public/editor-build/264-wp/texts.php:517
+msgid "Font Family"
+msgstr "Фамилија словног лика"
+
+#: public/editor-build/264-wp/texts.php:1309
+msgid "Typography"
+msgstr "Типографија"
+
+#: public/editor-build/264-wp/texts.php:894
+msgid "Position"
+msgstr "Место"
+
+#: public/editor-build/264-wp/texts.php:317
+msgid "Content"
+msgstr "Садржај"
+
+#: public/editor-build/264-wp/texts.php:542
+msgid "Gap Below"
+msgstr "Међупростор испод"
+
+#: public/editor-build/264-wp/texts.php:541
+msgid "Gap Above"
+msgstr "Међупростор изнад"
+
+#: public/editor-build/264-wp/texts.php:664
+msgid "Italic"
+msgstr "Искошено"
+
+#: public/editor-build/264-wp/texts.php:223
+msgid "Bold"
+msgstr "Подебљано"
+
+#: public/editor-build/264-wp/texts.php:696
+msgid "Line Hgt."
+msgstr "Висина линије"
+
+#: public/editor-build/264-wp/texts.php:1136
+msgid "Size"
+msgstr "Величина"
+
+#: public/editor-build/264-wp/texts.php:16
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Атина, Истамбул)"
+
+#: public/editor-build/264-wp/texts.php:667
+msgid "JackInTheBox"
+msgstr "JackInTheBox"
+
+#: public/editor-build/264-wp/texts.php:440
+msgid "Enter address"
+msgstr "Унесите адресу"
+
+#: public/editor-build/264-wp/texts.php:132
+msgid "Address"
+msgstr "Адреса"
+
+#: public/editor-build/264-wp/texts.php:713
+msgid "Loop"
+msgstr "Петља"
+
+#: public/editor-build/264-wp/texts.php:1219
+msgid "Swing"
+msgstr "Замах"
+
+#: public/editor-build/264-wp/texts.php:1095
+msgid "Shake"
+msgstr "Мућкати"
+
+#: public/editor-build/264-wp/texts.php:861
+msgid "Parallax"
+msgstr "Parallax"
+
+#: public/editor-build/264-wp/texts.php:413
+msgid "Duration"
+msgstr "Трајање"
+
+#: public/editor-build/264-wp/texts.php:224
+msgid "Border"
+msgstr "Ивица"
+
+#: public/editor-build/264-wp/texts.php:191
+msgid "Background"
+msgstr "Позадина"
+
+#: public/editor-build/264-wp/texts.php:306
+msgid "Colors"
+msgstr "Боје"
+
+#: public/editor-build/264-wp/texts.php:1312
+msgid "URL"
+msgstr "URL"
+
+#: public/editor-build/264-wp/texts.php:383
+msgid "Diamond"
+msgstr "Дијамант"
+
+#: public/editor-build/264-wp/texts.php:290
+msgid "Circle"
+msgstr "Круг"
+
+#: public/editor-build/264-wp/texts.php:770
+msgid "Missing Element"
+msgstr "Недостајући елемент"
+
+#: public/editor-build/264-wp/texts.php:401
+msgid "Dots"
+msgstr "Тачке"
+
+#: public/editor-build/264-wp/texts.php:796
+msgid "Navigation"
+msgstr "Кретање"
+
+#: public/editor-build/264-wp/texts.php:1183
+msgid "Speed"
+msgstr "Брзина"
+
+#: public/editor-build/264-wp/texts.php:579
+msgid "Height"
+msgstr "Висина"
+
+#: public/editor-build/264-wp/texts.php:1401
+msgid "Width"
+msgstr "Ширина"
+
+#: public/editor-build/264-wp/texts.php:845
+msgid "Outline"
+msgstr "Обрис"
+
+#: public/editor-build/264-wp/texts.php:1149
+msgid "Slider"
+msgstr "Слајдер"
+
+#: public/editor-build/264-wp/texts.php:261
+msgid "CSS Class"
+msgstr "CSS класа"
+
+#: public/editor-build/264-wp/texts.php:1184
+msgid "Square"
+msgstr "Квадрат"
+
+#: public/editor-build/264-wp/texts.php:134
+msgid "Advanced"
+msgstr "Напредно"
+
+#: public/editor-build/264-wp/texts.php:779
+msgid "More Settings"
+msgstr "Још подешавања"
+
+#: public/editor-build/264-wp/texts.php:952
+msgid "Publish"
+msgstr "Објави"
+
+#: public/editor-build/264-wp/texts.php:1336
+msgid "Update"
+msgstr "Ажурирај"
+
+#: public/editor-build/264-wp/texts.php:124
+msgid "Add new option"
+msgstr "Додај нову опцију"
+
+#: public/editor-build/264-wp/texts.php:778
+msgid "More"
+msgstr "Више"
+
+#: public/editor-build/264-wp/texts.php:533
+msgid "Full Height"
+msgstr "Потпуна висина"
+
+#: public/editor-build/264-wp/texts.php:773
+msgid "Mobile"
+msgstr "Мобилни"
+
+#: public/editor-build/264-wp/texts.php:1203
+msgid "Styling"
+msgstr "Стилизовање"
+
+#: public/editor-build/264-wp/texts.php:380
+msgid "Desktop"
+msgstr "Стони рачунар"
+
+#: public/editor-build/264-wp/texts.php:409
+msgid "Drag to reorder"
+msgstr "Превуците да бисте променили редослед"
+
+#: public/editor-build/264-wp/texts.php:988
+msgid "Reorder Blocks"
+msgstr "Промените распоред блокова"
+
+#: public/editor-build/264-wp/texts.php:1133
+msgid "Sidebar"
+msgstr "Бочна трака"
+
+#: public/editor-build/264-wp/texts.php:798
+msgid "New Style #%s"
+msgstr "Нови стил #%s"
+
+#: admin/form-entries.php:336 admin/popups/main.php:106 admin/templates.php:204
+#: public/editor-build/264-wp/texts.php:113
+msgid "Add New"
+msgstr "Додај нови"
+
+#: public/editor-build/264-wp/texts.php:1034
+msgid "Row"
+msgstr "Ред"
+
+#: public/editor-build/264-wp/texts.php:749
+msgid "Menu"
+msgstr "Изборник"
+
+#: public/editor-build/264-wp/texts.php:99
+msgid "Accordion"
+msgstr "Хармоника"
+
+#: public/editor-build/264-wp/texts.php:949
+msgid "Progress"
+msgstr "Напредак"
+
+#: public/editor-build/264-wp/texts.php:1231
+msgid "Tabs"
+msgstr "Језичци"
+
+#: public/editor-build/264-wp/texts.php:342
+msgid "Countdown"
+msgstr "Одбројавање"
+
+#: public/editor-build/264-wp/texts.php:343
+msgid "Counter"
+msgstr "Бројач"
+
+#: public/editor-build/264-wp/texts.php:945
+msgid "Products"
+msgstr "Производи"
+
+#: admin/templates.php:125 public/editor-build/264-wp/texts.php:922
+msgid "Product"
+msgstr "Производ"
+
+#: public/editor-build/264-wp/texts.php:858
+msgid "Pages"
+msgstr "Стране"
+
+#: public/editor-build/264-wp/texts.php:275
+msgid "Categories"
+msgstr "Категорије"
+
+#: public/editor-build/264-wp/texts.php:127
+msgid "Add to cart"
+msgstr "Додај у корпу"
+
+#: public/editor-build/264-wp/texts.php:603
+msgid "Icon Box"
+msgstr "Кутија са иконом"
+
+#: public/editor-build/264-wp/texts.php:616
+msgid "Image"
+msgstr "Слика"
+
+#: public/editor-build/264-wp/texts.php:524
+msgid "Form"
+msgstr "Образац"
+
+#: public/editor-build/264-wp/texts.php:428
+msgid "Embed"
+msgstr "Угнежђивање"
+
+#: public/editor-build/264-wp/texts.php:905
+msgid "Posts"
+msgstr "Чланци"
+
+#: public/editor-build/264-wp/texts.php:726
+msgid "Map"
+msgstr "Мапа"
+
+#: public/editor-build/264-wp/texts.php:695
+msgid "Line"
+msgstr "Линија"
+
+#: public/editor-build/264-wp/texts.php:602
+msgid "Icon"
+msgstr "Иконица"
+
+#: public/editor-build/264-wp/texts.php:244
+msgid "Button"
+msgstr "Дугме"
+
+#: public/editor-build/264-wp/texts.php:1173
+msgid "Spacer"
+msgstr "Размакница"
+
+#: public/editor-build/264-wp/texts.php:1240
+msgid "Text"
+msgstr "Текст"
+
+#: public/editor-build/264-wp/texts.php:1376
+msgid "Video"
+msgstr "Видео запис"
+
+#: public/editor-build/264-wp/texts.php:110
+msgid "Add Elements"
+msgstr "Додај елементе"
+
+#: public/editor-build/264-wp/texts.php:914
+msgid "Press the button to add blocks"
+msgstr "Притисни дугме да додаш блокове"
+
+#: public/editor-build/264-wp/texts.php:120
+msgid "Add a new block"
+msgstr "Додај нови блок"
+
+#: public/editor-build/264-wp/texts.php:912
+msgid "Press the button above to add blocks"
+msgstr "Притисни дугме горе да додаш блокове"
+
+#: public/editor-build/264-wp/texts.php:1045
+msgid "START BUILDING YOUR PAGE"
+msgstr "Почни да градиш своју страницу"
+
+#: public/editor-build/264-wp/texts.php:724
+msgid "Make it a Slider"
+msgstr "Постави за Слајдер"
+
+#: public/editor-build/264-wp/texts.php:307
+msgid "Column"
+msgstr "Ступац"
+
+#: public/editor-build/264-wp/texts.php:1105
+msgid "Shortcode"
+msgstr "Кратки кôд"
+
+#: public/editor-build/264-wp/texts.php:434
+msgid "Enable on Mobile"
+msgstr "Омогући на телефону"
+
+#: public/editor-build/264-wp/texts.php:387
+msgid "Disable on Mobile"
+msgstr "Онемогући на телефону"
+
+#: public/editor-build/264-wp/texts.php:775
+msgid "Mobile view"
+msgstr "Приказ на мобилним уређајима"
+
+#: public/editor-build/264-wp/texts.php:337
+msgid "Could not find"
+msgstr "Није пронађено"
+
+#: public/editor-build/264-wp/texts.php:1128
+msgid "Show on Desktop"
+msgstr "Прикажи на стоном рачунару"
+
+#: public/editor-build/264-wp/texts.php:1221
+msgid "Switch to desktop to add blocks"
+msgstr "Пребаци на стони рачунар да додаш блок"
+
+#: public/editor-build/264-wp/texts.php:1047
+msgid "SWITCH TO DESKTOP"
+msgstr "Пребаци се на стони рачунар"
+
+#: public/editor-build/264-wp/texts.php:837
+msgid "Order"
+msgstr "Поредак"
+
+#: public/editor-build/264-wp/texts.php:928
+msgid "Product ID"
+msgstr "ИД производа"
+
+#: public/editor-build/264-wp/texts.php:411
+msgid "Duplicate"
+msgstr "Дуплирај"
+
+#: public/editor-build/264-wp/texts.php:376
+msgid "Delete"
+msgstr "Обриши"
+
+#: public/editor-build/264-wp/texts.php:1292
+msgid "Trash"
+msgstr "Отпад"
+
+#: public/editor-build/264-wp/texts.php:514
+msgid "Flip"
+msgstr "Flip"
+
+#: public/editor-build/264-wp/texts.php:668
+msgid "Jello"
+msgstr "Jello"
+
+#: public/editor-build/264-wp/texts.php:1407
+msgid "Wobble"
+msgstr "Wobble"
+
+#: public/editor-build/264-wp/texts.php:1232
+msgid "Tada"
+msgstr "Tada"
+
+#: public/editor-build/264-wp/texts.php:513
+msgid "Flash"
+msgstr "Flash"
+
+#: public/editor-build/264-wp/texts.php:210
+msgid "Bg Size"
+msgstr "Величина слике у позадини"
+
+#: public/editor-build/264-wp/texts.php:751
+msgid "Menu Order"
+msgstr "Поредак изборника"
+
+#: public/editor-build/264-wp/texts.php:1151
+msgid "Slug"
+msgstr "Подложак"
+
+#: public/editor-build/264-wp/texts.php:498
+msgid "Filter"
+msgstr "Филтрирај"
+
+#: public/editor-build/264-wp/texts.php:838
+msgid "Order By"
+msgstr "Поређај по"
+
+#: public/editor-build/264-wp/texts.php:377
+msgid "Desc"
+msgstr "Oпадајућe"
+
+#: public/editor-build/264-wp/texts.php:308
+msgid "Columns"
+msgstr "Ступци"
+
+#: public/editor-build/264-wp/texts.php:421
+msgid "Email"
+msgstr "Е-пошта"
+
+#: public/editor-build/264-wp/texts.php:973
+msgid "Redirect"
+msgstr "Преусмери"
+
+#: public/editor-build/264-wp/texts.php:276
+msgid "Categories Count"
+msgstr "Број категорија"
+
+#: public/editor-build/264-wp/texts.php:929
+msgid "Product ID or SKU"
+msgstr "ИД производа или шифра производа"
+
+#: public/editor-build/264-wp/texts.php:204
+msgid "Bar"
+msgstr "Трака"
+
+#: public/editor-build/264-wp/texts.php:946
+msgid "Products Count"
+msgstr "Број производа"
+
+#: public/editor-build/264-wp/texts.php:967
+msgid "Ratio"
+msgstr "Ратио"
+
+#: public/editor-build/264-wp/texts.php:1069
+msgid "Select"
+msgstr "Означити"
+
+#: public/editor-build/264-wp/texts.php:806
+msgid "Normal"
+msgstr "Нормално"
+
+#: public/editor-build/264-wp/texts.php:496
+msgid "Fill"
+msgstr "Попуни"
+
+#: public/editor-build/264-wp/texts.php:703
+msgid "List"
+msgstr "Листа"
+
+#: public/editor-build/264-wp/texts.php:138
+msgid "Align"
+msgstr "Поравнај"
+
+#: public/editor-build/264-wp/texts.php:954
+msgid "Pulse"
+msgstr "Пулс"
+
+#: public/editor-build/264-wp/texts.php:229
+msgid "Bounce"
+msgstr "Поскакање"
+
+#: public/editor-build/264-wp/texts.php:375
+msgid "Delay"
+msgstr "Одлагање"
+
+#: public/editor-build/264-wp/texts.php:848
+msgid "Overlay"
+msgstr "Преклапање"
+
+#: public/editor-build/264-wp/texts.php:1432
+msgid "Zoom"
+msgstr "Зумирање"
+
+#: public/editor-build/264-wp/texts.php:153
+msgid "Animated"
+msgstr "Анимирано"
+
+#: public/editor-build/264-wp/texts.php:510
+msgid "Fixed"
+msgstr "Учвршћено"
+
+#: public/editor-build/264-wp/texts.php:1433
+msgid "component"
+msgstr "компонента"
+
+#: public/editor-build/264-wp/texts.php:532
+msgid "Full"
+msgstr "Цело"
+
+#: admin/views/settings/maintenance.php:27
+#: public/editor-build/264-wp/texts.php:354
+msgid "Custom"
+msgstr "Прилагођено"
+
+#: public/editor-build/264-wp/texts.php:179
+msgid "Auto"
+msgstr "Аутоматски"
+
+#: public/editor-build/264-wp/texts.php:232
+msgid "Boxed"
+msgstr "Ограничено"
+
+#: public/editor-build/264-wp/texts.php:1033
+msgid "Round"
+msgstr "Округао"
+
+#: public/editor-build/264-wp/texts.php:1234
+msgid "Tail"
+msgstr "Реп"
+
+#: public/editor-build/264-wp/texts.php:578
+msgid "Heavy"
+msgstr "Тежак"
+
+#: public/editor-build/264-wp/texts.php:1253
+msgid "Thin"
+msgstr "Танак"
+
+#: public/editor-build/264-wp/texts.php:166
+msgid "Arrows"
+msgstr "Стреле"
+
+#: public/editor-build/264-wp/texts.php:805
+msgid "None"
+msgstr "Нема"
+
+#: public/editor-build/264-wp/texts.php:1431
+msgid "Z-index"
+msgstr "Z-index"
+
+#: public/editor-build/264-wp/texts.php:915
+msgid "Preview"
+msgstr "Прегледај"
+
+#: admin/views/settings/general.php:62 admin/views/settings/maintenance.php:76
+#: admin/views/settings/roles.php:26
+msgid "Save Changes"
+msgstr "Сачувај измене"
+
+#: admin/main.php:479
+msgid "Auto Draft"
+msgstr "Аутоматски нацрт"
+
+#: admin/main.php:244 admin/settings.php:109 admin/settings.php:110
+#: public/editor-build/264-wp/texts.php:1093
+msgid "Settings"
+msgstr "Подешавања"
+
+#. Author of the plugin
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin
+msgid "Brizy"
+msgstr "Brizy"
+
+#. Description of the plugin
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "Бесплатни градитељ страница за повлачење и испуштање који ће вам помоћи да муњевито направите Вордпрес странице. Лако је са Brizy."
+
+#: admin/membership/membership.php:64 editor/post.php:619
+#: public/editor-build/264-wp/texts.php:370
+msgid "Default"
+msgstr "Подразумевано"

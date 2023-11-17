@@ -1,0 +1,35 @@
+
+17-11-2023 03:02:05 [kaminisjekloca.me][info] Parent plugin start installation!
+17-11-2023 03:02:05 [kaminisjekloca.me][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.5
+17-11-2023 03:02:05 [kaminisjekloca.me][info] Parent plugin installation complete!
+-------------------------------
+17-11-2023 03:02:45 [kaminisjekloca.me][info] Start cron job. Scope: media-library
+17-11-2023 03:02:45 [kaminisjekloca.me][info] Try to create backup directory. Backup dir: (/var/www/wptbox/wp-content/uploads/wio_backup)
+17-11-2023 03:02:45 [kaminisjekloca.me][info] Try to create backup directory. Backup dir: (/var/www/wptbox/wp-content/uploads/wio_backup/2023/09)
+17-11-2023 03:02:45 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/defro-home-prima-la-t.jpg) to a remote server (server_1).
+17-11-2023 03:02:46 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:46 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/defro-home-prima-la-t-150x150.jpg) to a remote server (server_1).
+17-11-2023 03:02:47 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:47 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/defro-home-prima-la-t-300x169.jpg) to a remote server (server_1).
+17-11-2023 03:02:47 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:48 [kaminisjekloca.me][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"90","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":143619,"final_size":143619,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":130800,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1700186568}
+17-11-2023 03:02:48 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/kamini-na-drva-sa-ugradnjom.jpg) to a remote server (server_1).
+17-11-2023 03:02:49 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:50 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/kamini-na-drva-sa-ugradnjom-150x150.jpg) to a remote server (server_1).
+17-11-2023 03:02:50 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:50 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/kamini-na-drva-sa-ugradnjom-300x300.jpg) to a remote server (server_1).
+17-11-2023 03:02:51 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:51 [kaminisjekloca.me][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"571","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":201442,"final_size":201442,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":177141,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1700186571}
+17-11-2023 03:02:53 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/IMG_3714-scaled.jpg) to a remote server (server_1).
+17-11-2023 03:02:54 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:55 [kaminisjekloca.me][info] Preparing to upload a file (/var/www/wptbox/wp-content/uploads/2023/09/IMG_3714-225x300.jpg) to a remote server (server_1).
+17-11-2023 03:02:55 [kaminisjekloca.me][info] File successfully uploaded to remote server (server_1).
+17-11-2023 03:02:56 [kaminisjekloca.me][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"877","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":519104,"final_size":221556,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":506792,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1700186576}
+17-11-2023 03:02:56 [kaminisjekloca.me][info] End cron job. Scope: media-library
+-------------------------------
+17-11-2023 03:05:19 [kaminisjekloca.me][info] Parent plugin start deactivation!
+17-11-2023 03:05:19 [kaminisjekloca.me][info] Parent plugin deactivation complete!
+-------------------------------
